@@ -1,4 +1,4 @@
-<h1 align="center">I'm Mansour 👋🏾 What's Up?</h1>
+<h1 align="center">👋🏾 I'm Mansour, what's up?</h1>
 
 ###
 
