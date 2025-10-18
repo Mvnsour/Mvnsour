@@ -19,7 +19,7 @@
 
 - Frontend developer specialized in **React**, **TypeScript**, and **Web3 integration**.
 - Strong interest in **Solidity**, **Foundry**, and **smart contract testing**.
-- Regularly use **AI tools** to speed up refactoring, documentation, and testing.
+- Regularly use **AI tools** to speed up refactoring, documentation and testing.
 - Open to **remote opportunities** and **collaborative Web3 projects**.
 
 ###
