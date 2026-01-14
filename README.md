@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Web3 Frontend Developer / Smart Contract Developer</h1>
+<h1 align="center">Web3 Frontend Developer / Web3 Full-Stack Developer</h1>
 
 ###
 
